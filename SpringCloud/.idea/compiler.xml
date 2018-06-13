@@ -9,7 +9,6 @@
         <module name="eurekaclient" />
         <module name="eurekaserver" />
         <module name="feign" />
-        <module name="hystrix" />
         <module name="ribbon" />
         <module name="SpringCloud" />
         <module name="zuul" />
